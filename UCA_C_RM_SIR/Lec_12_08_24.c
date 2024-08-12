@@ -67,10 +67,6 @@ void printArray(int arr[], int size){
     }
 }
 
-typedef struct{
-    
-}
-
 int main(){
     
     // int(*fun_ptr)(int, int) = NULL;
