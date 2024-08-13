@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-void push (int n);
-int pop();
+void enqueue (int n);
+int dequeue();
 bool isEmpty();
 int size();
