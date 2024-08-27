@@ -1,7 +1,8 @@
 *.exe
 *.cpp
 *.out
-
+*.java
+*.class
 
 Java
 .vscode
